@@ -1,15 +1,5 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+GIT za pocetnike
 
-# TEAM
+Sada ucimo osnovne stvari.
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
+Kurs je odlican.
